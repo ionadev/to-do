@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "discord.js": "discordjs/discord.js",
+    "dotenv": "^6.0.0",
+    "express": "^4.16.3",
+    "klasa": "dirigeants/klasa",
+    "mongoose": "^5.2.9"
+  }
+}
